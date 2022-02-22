@@ -1,0 +1,35 @@
+{
+  "subscriptions": [
+    {
+      "id": "zkdium",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=319730&catalog[]=1206&currency=EUR&search_id=4222677296&order=newest_first&price_from=0&price_to=75",
+      "channelID": "923654991372226680"
+    },
+    {
+      "id": "0qki03",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=441&size_id[]=786&size_id[]=207&size_id[]=208&currency=EUR&search_id=4221370000&order=newest_first&price_to=25",
+      "channelID": "923655016529670144"
+    },
+    {
+      "id": "o4nq",
+      "url": "https://www.vinted.be/vetements?search_text=Ralph%20Lauren&size_id[]=207&size_id[]=208&catalog[]=1812&price_from=2.0&price_to=20.0&currency=EUR&search_id=4164054218&order=newest_first",
+      "channelID": "923655016529670144"
+    },
+    {
+      "id": "k1w2fk",
+      "url": "https://www.vinted.be/vetements?brand_id[]=2703&size_id[]=786&size_id[]=787&size_id[]=788&catalog[]=1231&price_to=50&currency=EUR&price_from=2",
+      "channelID": "923655016529670144"
+    },
+    {
+      "id": "59a2s5",
+      "url": "https://www.vinted.be/vetements?search_text=M2K%20TEKNO%20summit%20white&search_id=4223040659&size_id[]=787",
+      "channelID": "923654991372226680"
+    }
+  ],
+  "last_item_ts_zkdium": 1644141976000,
+  "last_item_ts_0qki03": 1645551225000,
+  "last_item_ts_o4nq": 1645548442000,
+  "last_item_ts_k1w2fk": 1645550559000,
+  "last_item_ts_59a2s5": null,
+  "is_first_sync": false
+}
